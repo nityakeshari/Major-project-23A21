@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SOS App</string>
+    <string name="channel_name">mychannel</string>
+    <string name="channel_description">notificationchannel</string>
+    <string name="google_maps_key">AIzaSyB9MxxJBmzLHdfsMEZSdV0vORR_MRwirPI</string>
+    <string name="i_am_here">I am here</string>
+    <string name="provider_failed">Provider Failed</string>
+    <string name="view_nearby_police_stations">View Nearby Police Stations</string>
+    <string name="view_nearby_hospitals">View Nearby Hospitals</string>
+</resources>
